@@ -12,5 +12,8 @@
     "api"
   ],
   "author": "Servet ŞEKER",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
 }
